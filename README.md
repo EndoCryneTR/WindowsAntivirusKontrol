@@ -11,3 +11,5 @@ Antivirüs programınızı test etmek için "EICAR Test Dosyası" oluşturup ant
 Program kullanıma hazırdır fakat bu final sürümü değildir. 
 
 detaylı bilgi almak için yada sorun bildirmek için discord sunucuma gelebilirsiniz: https://discord.gg/J8gUehZxCS
+
+(Şuanlık pek güzel bir arayüze sahip olmadığını biliyorum fakat bu programın yapabildiklerini başka hiçbir program yapamaz!)
